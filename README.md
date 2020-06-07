@@ -5,3 +5,4 @@ inspired by the fast & furious 7 gods eye
 # Checklist
 - [ ] Beable to use facial recognition through webcams
 - [ ] Beable to download camrea feed (with or without facial recognition) 
+- [ ] Beable to lunch metasploit payloads to get access to webcam of target device
